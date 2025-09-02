@@ -3,6 +3,7 @@
 <details>
 <summary><strong>📑 Table of Contents</strong></summary>
 
+- [📖 Introduction](#-introduction)  
 - [📊 Ability Power](#-ability-power)  
   - [🌟 Talents](#-talents)  
   - [📘 Skill Training](#-skill-training)  
@@ -13,6 +14,23 @@
 - [💡 Tips & Tricks](#-tips--tricks)  
 
 </details>
+
+---
+
+## 📖 Introduction
+
+Welcome to the **Blue Protocol Gear Guide**!  
+This guide is designed to help you understand how to progress your character by increasing **Ability Power** and optimizing your equipment.  
+
+You’ll learn:  
+- The different systems that contribute to your **Ability Power**.  
+- How to efficiently upgrade **Talents, Skills, Gear, Emblems, and Modules**.  
+- Where to farm better gear in **Dungeons** and how loot works.  
+- Practical **tips & tricks** to maximize your progression without wasting time or resources.  
+
+Whether you’re just starting out or aiming for endgame optimization, this guide will walk you through the essentials step by step.  
+
+[⬆️ Back to top](#blue-protocol-gear-guide)
 
 ---
 
