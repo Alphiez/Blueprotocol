@@ -49,7 +49,12 @@ It’s a combined score made up of multiple progression systems:
 - 🔰 **Emblem**  
 - 🔧 **Module**
  
+<details>
+<summary>📸 Example: Profile / Power Rating Screen</summary>
+
 ![Ability Power Screen](Imgs/APscreen.png)
+
+</details>
 
   <details>
     <summary>💡 How To get to the Profile/Power Rating Screen</summary>
