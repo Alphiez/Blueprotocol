@@ -35,24 +35,36 @@ Whether you’re just starting out or aiming for endgame optimization, this guid
 
 </details>
 
----
-
 <details>
 <summary><h2>📊 Ability Power</h2></summary>
 
-When you press **C** and click on **Ability Power**, you’ll see all the categories that contribute to your overall power:  
+**Ability Power (AP)** is your overall measure of strength in **Blue Protocol**.  
+It’s a combined score made up of multiple progression systems:  
 
 - 🌟 **Talents**  
 - 📘 **Skill Training**  
 - ⚔️ **Gear**  
 - 🔰 **Emblem**  
 - 🔧 **Module**  
-- *(as of today there’s a new category — name TBD)*  
-- Another one is coming on **Sept 9th**  
 
-These are the main systems to increase your character’s strength.  
+### Why is Ability Power Important?
 
----
+AP isn’t just a number — it directly determines what content you can access.  
+- Each **dungeon** and **dungeon tier** has a **minimum AP requirement**.  
+- If you don’t meet the threshold, you cannot enter that dungeon.  
+- The higher your AP, the more challenging and rewarding content becomes.  
+
+In short: **AP is the gateway to progression.**  
+You raise your AP through these systems, unlock tougher dungeons, and in return those dungeons reward you with better gear to push your AP even higher.  
+
+This creates the core loop of Blue Protocol:  
+**Improve AP → Unlock Dungeons → Farm Gear → Get Stronger → Repeat.**  
+
+We’ll dive into each AP component below, and later in the [🏰 Dungeons](#-dungeons) section we’ll cover how dungeon requirements tie into your progression path.  
+
+[⬆️ Back to top](#blue-protocol-gear-guide)
+
+</details>
 
 <details>
 <summary><h3>🌟 Talents</h3></summary>
