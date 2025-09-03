@@ -35,6 +35,8 @@ Whether you’re just starting out or aiming for endgame optimization, this guid
 
 </details>
 
+---
+
 <details>
 <summary><h2>📊 Ability Power</h2></summary>
 
