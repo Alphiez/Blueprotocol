@@ -45,7 +45,16 @@ It’s a combined score made up of multiple progression systems:
 - 📘 **Skill Training**  
 - ⚔️ **Gear**  
 - 🔰 **Emblem**  
-- 🔧 **Module**  
+- 🔧 **Module**
+ 
+![Ability Power Screen](Imgs/APscreen.png)
+
+  <details>
+    <summary>💡 How To get to the Profile/Power Rating Screen</summary>
+
+  To see this screen, press **C** and click on the **Ability Power** text.
+
+  </details> 
 
 ### Why is Ability Power Important?
 
@@ -63,8 +72,6 @@ This creates the core loop of Blue Protocol:
 We’ll dive into each AP component below, and later in the [🏰 Dungeons](#-dungeons) section we’ll cover how dungeon requirements tie into your progression path.  
 
 [⬆️ Back to top](#blue-protocol-gear-guide)
-
-</details>
 
 <details>
 <summary><h3>🌟 Talents</h3></summary>
