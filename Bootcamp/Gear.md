@@ -7,7 +7,7 @@
 - [📊 Ability Power](#-ability-power)  
   - [🌟 Talents](#-talents)  
   - [📘 Skill Training](#-skill-training)  
-  - [⚔️ Gear](#️-gear)  
+  - [⚔️ Gear](#-gear)  
   - [🔰 Emblem](#-emblem)  
   - [🔧 Module](#-module)  
 - [🏰 Dungeons](#-dungeons)  
@@ -17,7 +17,8 @@
 
 ---
 
-## 📖 Introduction
+<details open>
+<summary><h2>📖 Introduction</h2></summary>
 
 Welcome to the **Blue Protocol Gear Guide**!  
 This guide is designed to help you understand how to progress your character by increasing **Ability Power** and optimizing your equipment.  
@@ -32,9 +33,12 @@ Whether you’re just starting out or aiming for endgame optimization, this guid
 
 [⬆️ Back to top](#blue-protocol-gear-guide)
 
+</details>
+
 ---
 
-## 📊 Ability Power
+<details>
+<summary><h2>📊 Ability Power</h2></summary>
 
 When you press **C** and click on **Ability Power**, you’ll see all the categories that contribute to your overall power:  
 
@@ -48,11 +52,10 @@ When you press **C** and click on **Ability Power**, you’ll see all the catego
 
 These are the main systems to increase your character’s strength.  
 
-[⬆️ Back to top](#blue-protocol-gear-guide)
-
 ---
 
-## 🌟 Talents
+<details>
+<summary><h3>🌟 Talents</h3></summary>
 
 Talents are one of the biggest contributors to Ability Power.  
 - Unlocking and upgrading talents increases core stats and abilities.  
@@ -60,11 +63,12 @@ Talents are one of the biggest contributors to Ability Power.
 
 👉 Always prioritize talents that boost your class’s main attributes.  
 
-[⬆️ Back to top](#blue-protocol-gear-guide)
+</details>
 
 ---
 
-## 📘 Skill Training
+<details>
+<summary><h3>📘 Skill Training</h3></summary>
 
 Skill Training enhances your combat abilities:  
 - Upgrading **skills** increases their power and effectiveness.  
@@ -72,15 +76,16 @@ Skill Training enhances your combat abilities:
 
 👉 Don’t forget to revisit older skills — even basic ones scale well when upgraded.  
 
-[⬆️ Back to top](#blue-protocol-gear-guide)
+</details>
 
 ---
 
-## ⚔️ Gear
+<details>
+<summary><h3>⚔️ Gear</h3></summary>
 
 Gear progression has the largest direct impact on Ability Power.  
 
-### Equipment Tiers
+#### Equipment Tiers
 
 For equipment, these are the three main categories you should know:
 
@@ -97,11 +102,12 @@ We all want Gold, but if that’s not achievable aim for Superior.
 - **Normal Dungeons** = Superior  
 - **Chaotic Dungeons** = Gold  
 
-[⬆️ Back to top](#blue-protocol-gear-guide)
+</details>
 
 ---
 
-## 🔰 Emblem
+<details>
+<summary><h3>🔰 Emblem</h3></summary>
 
 Emblems add passive bonuses that contribute to Ability Power.  
 - Equipping stronger emblems boosts your stats.  
@@ -109,11 +115,12 @@ Emblems add passive bonuses that contribute to Ability Power.
 
 👉 Experiment with different emblem setups depending on class role (DPS, Support, Tank).  
 
-[⬆️ Back to top](#blue-protocol-gear-guide)
+</details>
 
 ---
 
-## 🔧 Module
+<details>
+<summary><h3>🔧 Module</h3></summary>
 
 Modules are late-game progression systems that enhance gear and abilities.  
 - Attach modules to gear for additional stat customization.  
@@ -121,11 +128,16 @@ Modules are late-game progression systems that enhance gear and abilities.
 
 👉 Prioritize farming modules that synergize with your build/playstyle.  
 
+</details>
+
 [⬆️ Back to top](#blue-protocol-gear-guide)
+
+</details>
 
 ---
 
-## 🏰 Dungeons
+<details>
+<summary><h2>🏰 Dungeons</h2></summary>
 
 Dungeons are the main source of higher-tier equipment.  
 
@@ -142,9 +154,12 @@ You also get a **first-time clear bonus** that guarantees a reward box.
 
 [⬆️ Back to top](#blue-protocol-gear-guide)
 
+</details>
+
 ---
 
-## 💡 Tips & Tricks
+<details>
+<summary><h2>💡 Tips & Tricks</h2></summary>
 
 - Aim for **Superior** gear if **Gold** is not achievable early.  
 - Don’t rely solely on **first-time clear boxes** for perfect stats — they can still roll poorly.  
@@ -152,3 +167,5 @@ You also get a **first-time clear bonus** that guarantees a reward box.
 - Track upcoming updates (e.g., new categories like Sept 9th) to stay ahead of progression.  
 
 [⬆️ Back to top](#blue-protocol-gear-guide)
+
+</details>
